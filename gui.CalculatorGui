@@ -1,0 +1,7 @@
+import gui.CalculatorGui;
+
+public class calculatorApp {
+    public static void main(String[] args) {
+        new CalculatorGui().setVisible(true);
+    }
+}
